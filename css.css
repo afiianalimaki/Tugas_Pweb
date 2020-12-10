@@ -1,0 +1,14 @@
+.border {
+    width: 20%;
+    height: 20%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+#button {
+    color: black;
+    text-decoration: none;
+}
+#button :hover{
+    transform: scaleX(0.5);
+}
